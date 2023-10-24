@@ -52,7 +52,7 @@ def process(gameName):
     document = {
         'rating': str(avg_rating),
         'name': gameName,
-        'cover': 'https://i.kym-cdn.com/entries/icons/mobile/000/033/421/cover2.jpg'
+        'cover': 'https://go.dev/blog/gopher/portrait.jpg'
     }
 
     collection.insert_one(document)
