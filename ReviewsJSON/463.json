@@ -1,0 +1,83 @@
+{
+    "0": { "Code": "463", "Name": "The Witcher 3: Wild Hunt" },
+    "1": {
+        "ExternalUrl": "http://www.pcgamer.com/the-witcher-3-review/",
+        "OutletName": "PC Gamer"
+    },
+    "2": {
+        "ExternalUrl": "http://www.ign.com/articles/2015/05/12/the-witcher-3-the-wild-hunt-review",
+        "OutletName": "IGN"
+    },
+    "3": {
+        "ExternalUrl": "http://www.eurogamer.net/articles/2015-05-18-the-witcher-3-wild-hunt-review",
+        "OutletName": "Eurogamer"
+    },
+    "4": {
+        "ExternalUrl": "https://metro.co.uk/2022/12/12/the-witcher-3-ps5-review-another-cyberpunk-2077-style-disaster-17923851/",
+        "OutletName": "Metro GameCentral"
+    },
+    "5": {
+        "ExternalUrl": "http://metro.co.uk/2015/05/12/the-witcher-3-wild-hunt-review-very-open-world-5193669/",
+        "OutletName": "Metro GameCentral"
+    },
+    "6": {
+        "ExternalUrl": "http://www.gamesradar.com/witcher-3-wild-hunt-review/",
+        "OutletName": "GamesRadar+"
+    },
+    "7": {
+        "ExternalUrl": "http://www.gameinformer.com/games/the_witcher_3_wild_hunt/b/playstation4/archive/2015/05/12/the-witcher-3-wild-hunt-review-game-informer.aspx",
+        "OutletName": "Game Informer"
+    },
+    "8": {
+        "ExternalUrl": "https://www.gamespot.com/reviews/the-witcher-3-wild-hunt-next-gen-update-review-winds-howlin/1900-6416135/?ftag=CAD-01-10abi2f",
+        "OutletName": "GameSpot"
+    },
+    "9": {
+        "ExternalUrl": "https://www.polygon.com/reviews/23505326/the-witcher-3-next-gen-upgrade-review-ps5-xbox-series-x-pc",
+        "OutletName": "Polygon"
+    },
+    "10": {
+        "ExternalUrl": "http://www.polygon.com/2015/5/13/8533059/the-witcher-3-review-wild-hunt-PC-PS4-Xbox-one",
+        "OutletName": "Polygon"
+    },
+    "11": {
+        "ExternalUrl": "http://www.gamespot.com/reviews/the-witcher-3-wild-hunt-review/1900-6416135/",
+        "OutletName": "GameSpot"
+    },
+    "12": {
+        "ExternalUrl": "http://kotaku.com/the-witcher-3-wild-hunt-the-kotaku-review-1703766283",
+        "OutletName": "Kotaku"
+    },
+    "13": {
+        "ExternalUrl": "http://www.usgamer.net/articles/the-witcher-3-wild-hunt-ps4-review",
+        "OutletName": "USgamer"
+    },
+    "14": {
+        "ExternalUrl": "http://www.gamerevolution.com/review/the-witcher-3-wild-hunt",
+        "OutletName": "Game Revolution"
+    },
+    "15": {
+        "ExternalUrl": "http://www.destructoid.com/review-the-witcher-3-wild-hunt-291344.phtml",
+        "OutletName": "Destructoid"
+    },
+    "16": {
+        "ExternalUrl": "https://www.thesixthaxis.com/?p=403762",
+        "OutletName": "TheSixthAxis"
+    },
+    "17": {
+        "ExternalUrl": "https://www.hobbyconsolas.com/reviews/analisis-witcher-3-wild-hunt-ps5-xbox-series-xs-pc-1168670",
+        "OutletName": "Hobby Consolas"
+    },
+    "18": {
+        "ExternalUrl": "https://www.hobbyconsolas.com/reviews/analisis-witcher-3-wild-hunt-ps4-117144",
+        "OutletName": "Hobby Consolas"
+    },
+    "19": {
+        "ExternalUrl": "http://www.gametrailers.com/reviews/j9qz9m/the-witcher-3--wild-hunt-review",
+        "OutletName": "GameTrailers"
+    },
+    "20": {
+        "ExternalUrl": "http://www.thesixthaxis.com/2015/05/22/the-witcher-3-wild-hunt-review/",
+        "OutletName": "TheSixthAxis"
+    }
+}

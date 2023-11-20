@@ -1,0 +1,1109 @@
+[
+    {
+        "_id": "61defc349e5c48c548d6c277",
+        "magic": 5600,
+        "isChosen": false,
+        "overrideRecommendation": false,
+        "game": { "name": "God of War", "id": 5434 },
+        "Outlet": {
+            "name": "PC Gamer",
+            "isContributor": false,
+            "id": 162,
+            "imageSrc": {
+                "og": "outlet/162/o/FpKaL1Hj.jpg",
+                "sm": "outlet/162/Tzt3P7so.jpg",
+                "lg": "outlet/162/LQgtWlmu.jpg"
+            }
+        },
+        "ScoreFormat": {
+            "id": 17,
+            "name": "0 to 100, whole numbers",
+            "shortName": "x / 100",
+            "scoreDisplay": " / 100",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": false,
+            "numDecimals": 0,
+            "base": 1,
+            "options": null
+        },
+        "medianAtTimeOfReview": 78,
+        "externalUrl": "https://www.pcgamer.com/god-of-war-pc-review/",
+        "language": "en-us",
+        "Platforms": [
+            {
+                "_id": "61df01a6af00564e02b3e041",
+                "id": 27,
+                "name": "PC",
+                "shortName": "PC"
+            }
+        ],
+        "Authors": [
+            {
+                "_id": "5d9528c278e8ae58fca6ae84",
+                "image": false,
+                "name": "Morgan Park",
+                "id": 2285
+            }
+        ],
+        "title": "God of War PC review",
+        "publishedDate": "2022-01-12T00:00:00.000Z",
+        "snippet": "The best game on PS4 is now one of the best games on PC.",
+        "score": 90,
+        "alias": "Morgan Park",
+        "npScore": 100,
+        "createdAt": "2022-01-12T16:05:08.487Z",
+        "updatedAt": "2022-08-11T16:47:27.325Z",
+        "__v": 0,
+        "blend_magic": 5600
+    },
+    {
+        "_id": "5d867b2193765d677878922d",
+        "magic": 5600,
+        "isChosen": true,
+        "title": "God of War review: astonishing technological craft in the service of simple\u00a0pleasures",
+        "publishedDate": "2018-04-12T04:00:00.000Z",
+        "externalUrl": "https://www.eurogamer.net/articles/2018-04-12-god-of-war-review-astonishing-technological-craft-in-the-service-of-simple-pleasures",
+        "snippet": "Despite eye-catching changes, the heart of this series remains gloriously unaltered.",
+        "language": "en-us",
+        "score": 80,
+        "npScore": 100,
+        "isQuoteManual": true,
+        "Authors": [
+            {
+                "_id": "5d867b2193765d677878922e",
+                "id": 753,
+                "name": "Christian Donlan",
+                "image": false
+            }
+        ],
+        "ScoreFormat": {
+            "id": 31,
+            "name": "Essential, Recommended, No Rec, Avoid",
+            "shortName": "Essential <--> Avoid",
+            "scoreDisplay": null,
+            "isNumeric": false,
+            "isSelect": true,
+            "isStars": false,
+            "numDecimals": null,
+            "base": null,
+            "options": [
+                {
+                    "_id": "5d867b2193765d6778789232",
+                    "val": 100,
+                    "label": "Essential"
+                },
+                {
+                    "_id": "5d867b2193765d6778789231",
+                    "val": 80,
+                    "label": "Recommended"
+                },
+                {
+                    "_id": "5d867b2193765d6778789230",
+                    "val": 75,
+                    "label": "No Recommendation / Blank"
+                },
+                {
+                    "_id": "5d867b2193765d677878922f",
+                    "val": 0,
+                    "label": "Avoid"
+                }
+            ]
+        },
+        "Platforms": [
+            {
+                "_id": "5d867b2193765d6778789233",
+                "id": 6,
+                "name": "PlayStation 4",
+                "shortName": "PS4"
+            }
+        ],
+        "alias": "Christian Donlan",
+        "game": { "id": 5434, "name": "God of War" },
+        "Outlet": {
+            "name": "Eurogamer",
+            "isContributor": false,
+            "id": 114,
+            "imageSrc": {
+                "og": "outlet/114/o/ZotSh1ir.jpg",
+                "sm": "outlet/114/U5o0V4A8.jpg",
+                "lg": "outlet/114/mICJYF7b.jpg"
+            }
+        },
+        "createdAt": "2019-09-21T19:33:53.371Z",
+        "updatedAt": "2022-08-11T16:47:25.628Z",
+        "__v": 0,
+        "blend_magic": 5600
+    },
+    {
+        "_id": "5d867b2093765d67787891bf",
+        "magic": 5600,
+        "isChosen": true,
+        "title": "God of War Review",
+        "publishedDate": "2018-04-12T04:00:00.000Z",
+        "externalUrl": "http://www.ign.com/articles/2018/04/12/god-of-war-review",
+        "snippet": "God of War's outstanding characters, world, and combat come together to form an unforgettable adventure.",
+        "language": "en-us",
+        "score": 100,
+        "npScore": 100,
+        "isQuoteManual": true,
+        "Authors": [
+            {
+                "_id": "5d867b2093765d67787891c0",
+                "id": 2579,
+                "name": "Jonathon Dornbush",
+                "image": false
+            }
+        ],
+        "ScoreFormat": {
+            "id": 18,
+            "name": "0 to 10 incl decimals",
+            "shortName": "x.x / 10.0",
+            "scoreDisplay": " / 10.0",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": false,
+            "numDecimals": 1,
+            "base": 10,
+            "options": null
+        },
+        "Platforms": [
+            {
+                "_id": "5d867b2093765d67787891c1",
+                "id": 6,
+                "name": "PlayStation 4",
+                "shortName": "PS4"
+            }
+        ],
+        "alias": "Jonathon Dornbush",
+        "game": { "id": 5434, "name": "God of War" },
+        "Outlet": {
+            "name": "IGN",
+            "isContributor": false,
+            "id": 56,
+            "imageSrc": {
+                "og": "outlet/56/o/ljTZSOGp.jpg",
+                "sm": "outlet/56/1v75XFcW.jpg",
+                "lg": "outlet/56/AmLzvUhj.jpg"
+            }
+        },
+        "createdAt": "2019-09-21T19:33:52.600Z",
+        "updatedAt": "2022-08-11T16:47:21.953Z",
+        "__v": 0,
+        "blend_magic": 5600
+    },
+    {
+        "_id": "61deffea9e5c48c548d6c2e8",
+        "magic": 5550,
+        "isChosen": false,
+        "overrideRecommendation": false,
+        "Outlet": {
+            "name": "Metro GameCentral",
+            "isContributor": false,
+            "id": 75,
+            "imageSrc": {
+                "og": "outlet/75/o/eSOrjn86.jpg",
+                "sm": "outlet/75/lP7sobQ6.jpg",
+                "lg": "outlet/75/7ZpgylR7.jpg"
+            }
+        },
+        "ScoreFormat": {
+            "id": 25,
+            "name": "0 to 10, whole numbers",
+            "shortName": "x / 10",
+            "scoreDisplay": " / 10",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": false,
+            "base": 10,
+            "options": null,
+            "numDecimals": 0
+        },
+        "externalUrl": "https://metro.co.uk/2022/01/12/god-of-war-pc-review-kratos-enhanced-15906986/",
+        "language": "en-us",
+        "Platforms": [],
+        "Authors": [],
+        "alias": "GameCentral",
+        "publishedDate": "2022-01-12T00:00:00.000Z",
+        "score": 90,
+        "snippet": "Kratos looks better than ever in this welcome PC port of one of the best action adventures of the outgoing generation.",
+        "game": { "id": 5434, "name": "God of War" },
+        "isQuoteManual": true,
+        "medianAtTimeOfReview": 70,
+        "npScore": 100,
+        "createdAt": "2022-01-12T16:20:58.299Z",
+        "updatedAt": "2022-08-11T16:47:23.382Z",
+        "__v": 0,
+        "blend_magic": 5550
+    },
+    {
+        "_id": "5d867b2293765d6778789291",
+        "magic": 5550,
+        "isChosen": false,
+        "title": "God of War (PS4) - Easy Allies Review",
+        "publishedDate": "2018-04-12T00:00:00.000Z",
+        "externalUrl": "https://www.youtube.com/watch?v=eqJFL0lH4ZE",
+        "snippet": null,
+        "language": "en-us",
+        "score": 100,
+        "npScore": 100,
+        "isQuoteManual": true,
+        "Authors": [
+            {
+                "_id": "5d867b2293765d6778789292",
+                "id": 667,
+                "name": "Michael Huber",
+                "image": false
+            }
+        ],
+        "ScoreFormat": {
+            "id": 18,
+            "name": "0 to 10 incl decimals",
+            "shortName": "x.x / 10.0",
+            "scoreDisplay": " / 10.0",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": false,
+            "numDecimals": 1,
+            "base": 10,
+            "options": null
+        },
+        "Platforms": [
+            {
+                "_id": "5d867b2293765d6778789293",
+                "id": 6,
+                "name": "PlayStation 4",
+                "shortName": "PS4"
+            }
+        ],
+        "alias": null,
+        "game": { "id": 5434, "name": "God of War" },
+        "Outlet": {
+            "name": "Easy Allies",
+            "isContributor": false,
+            "id": 394,
+            "imageSrc": {
+                "og": "outlet/394/o/jMM09Jtj.jpg",
+                "sm": "outlet/394/rWm37J6G.jpg",
+                "lg": "outlet/394/0mfvRvwO.jpg"
+            }
+        },
+        "createdAt": "2019-09-21T19:33:54.137Z",
+        "updatedAt": "2022-12-06T21:27:59.068Z",
+        "__v": 0,
+        "isYoutube": true,
+        "lastRefreshDate": "2021-12-05T20:09:23.718Z",
+        "overrideRecommendation": false,
+        "youtubeVideoId": "eqJFL0lH4ZE",
+        "blend_magic": 5550
+    },
+    {
+        "_id": "5d867b2093765d67787891bd",
+        "magic": 5550,
+        "isChosen": false,
+        "title": "God of War review: \u201cI don\u2019t think it\u2019s possible to overstate just how good this is\u201d | GamesRadar+",
+        "publishedDate": "2018-04-12T04:00:00.000Z",
+        "externalUrl": "https://www.gamesradar.com/god-of-war-review/",
+        "snippet": "One of PlayStation's finest moments, Kratos has been reimagined for a new audience while keeping the best bits of what originally made him great.",
+        "language": "en-us",
+        "score": 100,
+        "npScore": 100,
+        "isQuoteManual": false,
+        "Authors": [
+            {
+                "_id": "5d867b2093765d67787891be",
+                "id": 984,
+                "name": "Leon Hurley",
+                "image": false
+            }
+        ],
+        "ScoreFormat": {
+            "id": 19,
+            "name": "0 to 5 stars, incl half stars",
+            "scoreDisplay": " / 5 stars",
+            "shortName": "x.5 / 5 stars",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": true,
+            "numDecimals": 1,
+            "base": 20,
+            "options": null
+        },
+        "Platforms": [],
+        "alias": "Leon Hurley",
+        "game": { "id": 5434, "name": "God of War" },
+        "Outlet": {
+            "name": "GamesRadar+",
+            "isContributor": false,
+            "id": 91,
+            "imageSrc": {
+                "og": "outlet/91/o/Ox8p9mPd.jpg",
+                "sm": "outlet/91/qqIbhWtu.jpg",
+                "lg": "outlet/91/ALrwgt76.jpg"
+            }
+        },
+        "createdAt": "2019-09-21T19:33:52.597Z",
+        "updatedAt": "2022-08-11T16:47:24.048Z",
+        "__v": 0,
+        "blend_magic": 5550
+    },
+    {
+        "_id": "5d867b1f93765d6778789148",
+        "magic": 5550,
+        "isChosen": false,
+        "title": "God Of War review \u2013 the redemption of\u00a0Kratos",
+        "publishedDate": "2018-04-12T04:00:00.000Z",
+        "externalUrl": "http://metro.co.uk/2018/04/12/god-of-war-review-the-redemption-of-kratos-7460112/",
+        "snippet": "A top-to-bottom revamp of the whole God Of War franchise that matches thrilling, if slightly shallow, combat and exploration with some impressively trenchant storytelling.",
+        "language": "en-us",
+        "score": 90,
+        "npScore": 100,
+        "isQuoteManual": false,
+        "Authors": [],
+        "ScoreFormat": {
+            "id": 25,
+            "name": "0 to 10, whole numbers",
+            "shortName": "x / 10",
+            "scoreDisplay": " / 10",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": false,
+            "base": 10,
+            "options": null,
+            "numDecimals": 0
+        },
+        "Platforms": [
+            {
+                "_id": "5d867b1f93765d6778789149",
+                "id": 6,
+                "name": "PlayStation 4",
+                "shortName": "PS4"
+            }
+        ],
+        "alias": "GameCentral",
+        "game": { "id": 5434, "name": "God of War" },
+        "Outlet": {
+            "name": "Metro GameCentral",
+            "isContributor": false,
+            "id": 75,
+            "imageSrc": {
+                "og": "outlet/75/o/eSOrjn86.jpg",
+                "sm": "outlet/75/lP7sobQ6.jpg",
+                "lg": "outlet/75/7ZpgylR7.jpg"
+            }
+        },
+        "createdAt": "2019-09-21T19:33:51.562Z",
+        "updatedAt": "2022-08-11T16:47:23.382Z",
+        "__v": 0,
+        "blend_magic": 5550
+    },
+    {
+        "_id": "5d867b2093765d677878917f",
+        "magic": 5520,
+        "isChosen": false,
+        "title": "God Of War Review \u2013 Reaching A Higher Summit",
+        "publishedDate": "2018-04-12T04:00:00.000Z",
+        "externalUrl": "http://www.gameinformer.com/games/god_of_war/b/playstation4/archive/2018/04/12/god-of-war-ps4-review-game-informer.aspx",
+        "snippet": "An enthralling experience from beginning to end, with a mixture of great narrative moments and engaging encounters. God of War is a well-paced adventure that knows when to let the action simmer and when to make it boil over",
+        "language": "en-us",
+        "score": 98,
+        "npScore": 100,
+        "isQuoteManual": false,
+        "Authors": [
+            {
+                "_id": "5d867b2093765d6778789180",
+                "id": 1029,
+                "name": "Joe Juba",
+                "image": false
+            }
+        ],
+        "ScoreFormat": {
+            "id": 18,
+            "name": "0 to 10 incl decimals",
+            "shortName": "x.x / 10.0",
+            "scoreDisplay": " / 10.0",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": false,
+            "numDecimals": 1,
+            "base": 10,
+            "options": null
+        },
+        "Platforms": [
+            {
+                "_id": "5d867b2093765d6778789181",
+                "id": 6,
+                "name": "PlayStation 4",
+                "shortName": "PS4"
+            }
+        ],
+        "alias": "Joe Juba",
+        "game": { "id": 5434, "name": "God of War" },
+        "Outlet": {
+            "name": "Game Informer",
+            "isContributor": false,
+            "id": 35,
+            "imageSrc": {
+                "og": "outlet/35/o/9FCDG7wC.jpg",
+                "sm": "outlet/35/eaPNPgDC.jpg",
+                "lg": "outlet/35/c3KiPiCS.jpg"
+            }
+        },
+        "createdAt": "2019-09-21T19:33:52.217Z",
+        "updatedAt": "2022-08-11T16:47:21.269Z",
+        "__v": 0,
+        "blend_magic": 5520
+    },
+    {
+        "_id": "61df32909e5c48c548d6c6f3",
+        "magic": 5510,
+        "isChosen": false,
+        "overrideRecommendation": false,
+        "Outlet": {
+            "name": "GameSpot",
+            "isContributor": false,
+            "id": 32,
+            "imageSrc": {
+                "og": "outlet/32/o/HVjoXjEt.jpg",
+                "sm": "outlet/32/yXf7DyuJ.jpg",
+                "lg": "outlet/32/puzMbnOY.jpg"
+            }
+        },
+        "ScoreFormat": {
+            "id": 25,
+            "name": "0 to 10, whole numbers",
+            "shortName": "x / 10",
+            "scoreDisplay": " / 10",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": false,
+            "base": 10,
+            "options": null,
+            "numDecimals": 0
+        },
+        "externalUrl": "https://www.gamespot.com/reviews/god-of-war-review-out-with-the-old-in-with-the-new/1900-6416893/",
+        "language": "en-us",
+        "Platforms": [],
+        "Authors": [
+            {
+                "_id": "61df32909e5c48c548d6c6f4",
+                "id": 641,
+                "name": "Phil Hornshaw",
+                "image": true,
+                "imageSrc": {
+                    "og": "critic/641/o/yYcNTM4i.jpg",
+                    "sm": "critic/641/l3oEBOMc.jpg",
+                    "lg": "critic/641/VPacEmGr.jpg"
+                }
+            }
+        ],
+        "alias": "Peter Brown",
+        "publishedDate": "2022-01-12T00:00:00.000Z",
+        "score": 90,
+        "snippet": "God of War isn't drastically different on PC when compared to the PS4 version that launched back in 2018, but its little improvements are definitely nice ones, making this a solid PC port overall. There isn't reason enough here to buy a second copy of the game if you've already played, necessarily, but the PC version is a great reason to check out God of War for the first time for anybody who hasn't had a chance to experience it. God of War remains an excellent, gorgeous, affecting action game, and with the port to PC, it gets a handful of nice, if somewhat minor, improvements.",
+        "title": "God Of War Review: Out With The Old, In With The New",
+        "game": { "id": 5434, "name": "God of War" },
+        "isQuoteManual": true,
+        "medianAtTimeOfReview": 70,
+        "npScore": 100,
+        "createdAt": "2022-01-12T19:57:04.954Z",
+        "updatedAt": "2022-08-11T16:47:20.966Z",
+        "__v": 0,
+        "blend_magic": 5510
+    },
+    {
+        "_id": "61df1c0e9e5c48c548d6c3cf",
+        "magic": 5510,
+        "isChosen": false,
+        "overrideRecommendation": false,
+        "Outlet": {
+            "name": "Polygon",
+            "isContributor": false,
+            "id": 87,
+            "imageSrc": {
+                "og": "outlet/87/o/XP3i8Uoz.jpg",
+                "sm": "outlet/87/tG3biCpx.jpg",
+                "lg": "outlet/87/m7AWXHMy.jpg"
+            }
+        },
+        "ScoreFormat": {
+            "id": 30,
+            "name": "No Verdict",
+            "shortName": "No Verdict",
+            "scoreDisplay": " / 100",
+            "isNumeric": false,
+            "isSelect": false,
+            "base": null,
+            "options": null,
+            "isStars": false,
+            "numDecimals": null
+        },
+        "game": { "id": 5434, "name": "God of War" },
+        "externalUrl": "https://www.polygon.com/reviews/22878555/god-of-war-pc-steam-epic-review-ragnarok-playstation-kratos",
+        "language": "en-us",
+        "Platforms": [],
+        "Authors": [
+            {
+                "_id": "5d95290f78e8ae58fca6b831",
+                "image": false,
+                "name": "Ryan Gilliam",
+                "id": 5319
+            }
+        ],
+        "alias": "Ryan Gilliam",
+        "publishedDate": "2022-01-12T00:00:00.000Z",
+        "snippet": "Nothing compares to playing a game like God of War for the first time, seeing the way the water rushes out of the Lake of Nine as J\u00f6rmungandr, the World Serpent, rises from beneath the waves. But when the giant snake opened his mouth, and his voice bellowed through my headphones, I was even more awestruck by his design - his 4-year-old model and textures look excellent, even with my face just inches away from the monitor. The water dripping off of his mossy beard, the shadows in his nostrils, and his throat wavering while he speaks - it all looks better than ever. It's the same game, but with its already impressive sets and visuals turned up, creating an even more immersive experience.",
+        "title": "God of War, the best PlayStation exclusive, is even better on PC",
+        "isQuoteManual": true,
+        "medianAtTimeOfReview": 80,
+        "npScore": null,
+        "createdAt": "2022-01-12T18:21:02.779Z",
+        "updatedAt": "2022-08-11T16:47:23.820Z",
+        "__v": 0,
+        "blend_magic": 5510
+    },
+    {
+        "_id": "5d867b2093765d677878918b",
+        "magic": 5510,
+        "isChosen": false,
+        "title": "God Of War Review: Divine Bloodshed",
+        "publishedDate": "2018-04-12T04:00:00.000Z",
+        "externalUrl": "https://www.gamespot.com/reviews/god-of-war-review-divine-bloodshed/1900-6416893/",
+        "snippet": "God of War is every bit the over-the-top action game you expect, but it's the story and setting that end up stealing the show.",
+        "language": "en-us",
+        "score": 90,
+        "npScore": 100,
+        "isQuoteManual": false,
+        "Authors": [
+            {
+                "_id": "5d867b2093765d677878918c",
+                "id": 1408,
+                "name": "Peter Brown",
+                "image": false
+            }
+        ],
+        "ScoreFormat": {
+            "id": 25,
+            "name": "0 to 10, whole numbers",
+            "shortName": "x / 10",
+            "scoreDisplay": " / 10",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": false,
+            "base": 10,
+            "options": null,
+            "numDecimals": 0
+        },
+        "Platforms": [
+            {
+                "_id": "5d867b2093765d677878918d",
+                "id": 6,
+                "name": "PlayStation 4",
+                "shortName": "PS4"
+            }
+        ],
+        "alias": "Peter Brown",
+        "game": { "id": 5434, "name": "God of War" },
+        "Outlet": {
+            "name": "GameSpot",
+            "isContributor": false,
+            "id": 32,
+            "imageSrc": {
+                "og": "outlet/32/o/HVjoXjEt.jpg",
+                "sm": "outlet/32/yXf7DyuJ.jpg",
+                "lg": "outlet/32/puzMbnOY.jpg"
+            }
+        },
+        "createdAt": "2019-09-21T19:33:52.235Z",
+        "updatedAt": "2022-08-11T16:47:20.966Z",
+        "__v": 0,
+        "blend_magic": 5510
+    },
+    {
+        "_id": "5d867b1f93765d6778789169",
+        "magic": 5510,
+        "isChosen": false,
+        "title": "God of War review",
+        "publishedDate": "2018-04-12T04:00:00.000Z",
+        "externalUrl": "https://www.polygon.com/2018/4/12/17226486/god-of-war-review-ps4-2018",
+        "snippet": "Some die-hard fans may fear this isn't really God of War. I suppose they're right. It's even better.",
+        "language": "en-us",
+        "score": 100,
+        "npScore": 100,
+        "isQuoteManual": true,
+        "Authors": [
+            {
+                "_id": "5d867b1f93765d677878916a",
+                "id": 1507,
+                "name": "Chris Plante",
+                "image": false
+            }
+        ],
+        "ScoreFormat": {
+            "id": 18,
+            "name": "0 to 10 incl decimals",
+            "shortName": "x.x / 10.0",
+            "scoreDisplay": " / 10.0",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": false,
+            "numDecimals": 1,
+            "base": 10,
+            "options": null
+        },
+        "Platforms": [
+            {
+                "_id": "5d867b1f93765d677878916b",
+                "id": 6,
+                "name": "PlayStation 4",
+                "shortName": "PS4"
+            }
+        ],
+        "alias": "Chris Plante",
+        "game": { "id": 5434, "name": "God of War" },
+        "Outlet": {
+            "name": "Polygon",
+            "isContributor": false,
+            "id": 87,
+            "imageSrc": {
+                "og": "outlet/87/o/XP3i8Uoz.jpg",
+                "sm": "outlet/87/tG3biCpx.jpg",
+                "lg": "outlet/87/m7AWXHMy.jpg"
+            }
+        },
+        "createdAt": "2019-09-21T19:33:51.773Z",
+        "updatedAt": "2022-08-11T16:47:23.820Z",
+        "__v": 0,
+        "blend_magic": 5510
+    },
+    {
+        "_id": "5d867b2293765d67787892a2",
+        "magic": 5460,
+        "isChosen": true,
+        "title": "God of War Review",
+        "publishedDate": "2018-04-12T04:00:00.000Z",
+        "externalUrl": "https://www.giantbomb.com/reviews/god-of-war-review/1900-782/",
+        "snippet": "Sony Santa Monica makes us care about Kratos in this stunning revival of the series.",
+        "language": "en-us",
+        "score": 100,
+        "npScore": 100,
+        "isQuoteManual": true,
+        "Authors": [
+            {
+                "_id": "5d867b2293765d67787892a3",
+                "id": 661,
+                "name": "Dan Ryckert",
+                "image": false
+            }
+        ],
+        "ScoreFormat": {
+            "id": 22,
+            "name": "0 to 5 stars, whole stars",
+            "shortName": "x / 5 stars",
+            "scoreDisplay": " / 5 stars",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": true,
+            "numDecimals": 0,
+            "base": 20,
+            "options": null
+        },
+        "Platforms": [
+            {
+                "_id": "5d867b2293765d67787892a4",
+                "id": 6,
+                "name": "PlayStation 4",
+                "shortName": "PS4"
+            }
+        ],
+        "alias": "Dan Ryckert",
+        "game": { "id": 5434, "name": "God of War" },
+        "Outlet": {
+            "name": "Giant Bomb",
+            "isContributor": false,
+            "id": 132,
+            "imageSrc": {
+                "og": "outlet/132/o/SLUpPE8f.jpg",
+                "sm": "outlet/132/puEqkhOk.jpg",
+                "lg": "outlet/132/OhwaBtOJ.jpg"
+            }
+        },
+        "createdAt": "2019-09-21T19:33:54.494Z",
+        "updatedAt": "2022-08-11T16:47:26.344Z",
+        "__v": 0,
+        "blend_magic": 5460
+    },
+    {
+        "_id": "5d867b2093765d67787891ba",
+        "magic": 5450,
+        "isChosen": false,
+        "title": "God of War Review",
+        "publishedDate": "2018-04-12T04:00:00.000Z",
+        "externalUrl": "http://www.usgamer.net/articles/god-of-war-review",
+        "snippet": "This is how you do a reboot. After Kratos lost his way, Sony Santa Monica has set the God of War on a new path. A more measure, nuanced character, a great supporting cast, an excellent combat system, and some of the best graphics in the PlayStation 4 game to-date add up to a winner.",
+        "language": "en-us",
+        "score": 100,
+        "npScore": 100,
+        "isQuoteManual": false,
+        "Authors": [
+            {
+                "_id": "5d867b2093765d67787891bb",
+                "id": 299,
+                "name": "Mike Williams",
+                "image": false
+            }
+        ],
+        "ScoreFormat": {
+            "id": 19,
+            "name": "0 to 5 stars, incl half stars",
+            "scoreDisplay": " / 5 stars",
+            "shortName": "x.5 / 5 stars",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": true,
+            "numDecimals": 1,
+            "base": 20,
+            "options": null
+        },
+        "Platforms": [
+            {
+                "_id": "5d867b2093765d67787891bc",
+                "id": 6,
+                "name": "PlayStation 4",
+                "shortName": "PS4"
+            }
+        ],
+        "alias": "Mike Williams",
+        "game": { "id": 5434, "name": "God of War" },
+        "Outlet": {
+            "name": "USgamer",
+            "isContributor": false,
+            "id": 66,
+            "imageSrc": {
+                "og": "outlet/66/o/SK3SRPmD.jpg",
+                "sm": "outlet/66/YaA3s59d.jpg",
+                "lg": "outlet/66/q1lI0NCc.jpg"
+            }
+        },
+        "createdAt": "2019-09-21T19:33:52.584Z",
+        "updatedAt": "2022-08-11T16:47:22.632Z",
+        "__v": 0,
+        "blend_magic": 5450
+    },
+    {
+        "_id": "61e1047a9e5c48c548d6cea4",
+        "magic": 5410,
+        "isChosen": false,
+        "overrideRecommendation": false,
+        "Outlet": {
+            "name": "Game Revolution",
+            "isContributor": false,
+            "id": 93,
+            "imageSrc": {
+                "og": "outlet/93/o/HPqpNuyz.jpg",
+                "sm": "outlet/93/bcVKvom2.jpg",
+                "lg": "outlet/93/cj2IXWVT.jpg"
+            }
+        },
+        "ScoreFormat": {
+            "id": 18,
+            "name": "0 to 10 incl decimals",
+            "shortName": "x.x / 10.0",
+            "scoreDisplay": " / 10.0",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": false,
+            "numDecimals": 1,
+            "base": 10,
+            "options": null
+        },
+        "game": { "id": 5434, "name": "God of War" },
+        "externalUrl": "https://www.gamerevolution.com/review/700722-god-of-war-pc-review-worth-buying-playing",
+        "language": "en-us",
+        "Platforms": [],
+        "Authors": [],
+        "alias": "Jason Faulkner",
+        "publishedDate": "2022-01-14T00:00:00.000Z",
+        "title": "God of War PC Review: \u2018The definitive version\u2019",
+        "score": 100,
+        "snippet": "How impressive God of War is on PC really gives credit to Santa Monica Studio\u2019s work on this game. It\u2019s still a gorgeous journey through a unique take on Norse mythology, and a great way to play the game for the first time or revisit it before God of War Ragnarok releases. I\u2019m as impressed with it now as I was the first time through it, and I look forward to seeing what\u2019s in store for Kratos and Atreus in the sequel.",
+        "isQuoteManual": true,
+        "medianAtTimeOfReview": 80,
+        "npScore": 100,
+        "createdAt": "2022-01-14T05:04:58.073Z",
+        "updatedAt": "2022-08-11T16:47:24.123Z",
+        "__v": 0,
+        "blend_magic": 5410
+    },
+    {
+        "_id": "5d867b2093765d67787891f4",
+        "magic": 5410,
+        "isChosen": false,
+        "title": "God of War Review \u2013 An Olympian Feat",
+        "publishedDate": "2018-04-12T04:00:00.000Z",
+        "externalUrl": "http://www.gamerevolution.com/review/381919-god-of-war-review-an-olympian-feat",
+        "snippet": "The graphics, sound, combat, world, and plot all come together to make an exquisite package that is a prime example of why games are art and God of War is right up there with the best films and novels when it comes to storytelling. If you have a PlayStation 4, you should play God of War. If you don't have one, you should consider getting one to play this game.\nRead more at http://www.gamerevolution.com/review/381919-god-of-war-review-an-olympian-feat#ovxu44mgz9GifWd0.99",
+        "language": "en-us",
+        "score": 100,
+        "npScore": 100,
+        "isQuoteManual": true,
+        "Authors": [
+            {
+                "_id": "5d867b2093765d67787891f5",
+                "id": 448,
+                "name": "Jason Faulkner",
+                "image": false
+            }
+        ],
+        "ScoreFormat": {
+            "id": 19,
+            "name": "0 to 5 stars, incl half stars",
+            "scoreDisplay": " / 5 stars",
+            "shortName": "x.5 / 5 stars",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": true,
+            "numDecimals": 1,
+            "base": 20,
+            "options": null
+        },
+        "Platforms": [
+            {
+                "_id": "5d867b2093765d67787891f6",
+                "id": 6,
+                "name": "PlayStation 4",
+                "shortName": "PS4"
+            }
+        ],
+        "alias": "Jason Faulkner",
+        "game": { "id": 5434, "name": "God of War" },
+        "Outlet": {
+            "name": "Game Revolution",
+            "isContributor": false,
+            "id": 93,
+            "imageSrc": {
+                "og": "outlet/93/o/HPqpNuyz.jpg",
+                "sm": "outlet/93/bcVKvom2.jpg",
+                "lg": "outlet/93/cj2IXWVT.jpg"
+            }
+        },
+        "createdAt": "2019-09-21T19:33:53.001Z",
+        "updatedAt": "2022-08-11T16:47:24.123Z",
+        "__v": 0,
+        "blend_magic": 5410
+    },
+    {
+        "_id": "5d867b1f93765d6778789171",
+        "magic": 5410,
+        "isChosen": false,
+        "title": "Review: God of War (PS4)",
+        "publishedDate": "2018-04-12T04:00:00.000Z",
+        "externalUrl": "https://www.destructoid.com/review-god-of-war-ps4--497165.phtml",
+        "snippet": "God of War is a different game for a new era of the medium. While I'm a sucker for more frantic arcadey action there are plenty of studios left carrying on that legacy. Unless something catastrophic happens to\u00a0Sony Santa Monica, there's more story to tell, and I hope the exact same team is able to tell it.",
+        "language": "en-us",
+        "score": 100,
+        "npScore": 100,
+        "isQuoteManual": false,
+        "Authors": [
+            {
+                "_id": "5d867b1f93765d6778789172",
+                "id": 431,
+                "name": "Chris Carter",
+                "image": true,
+                "imageSrc": {
+                    "og": "critic/431/o/ywRVe71y.jpg",
+                    "sm": "critic/431/FtoAZ0GG.jpg",
+                    "lg": "critic/431/iZz8RTzp.jpg"
+                }
+            }
+        ],
+        "ScoreFormat": {
+            "id": 18,
+            "name": "0 to 10 incl decimals",
+            "shortName": "x.x / 10.0",
+            "scoreDisplay": " / 10.0",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": false,
+            "numDecimals": 1,
+            "base": 10,
+            "options": null
+        },
+        "Platforms": [
+            {
+                "_id": "5d867b1f93765d6778789173",
+                "id": 6,
+                "name": "PlayStation 4",
+                "shortName": "PS4"
+            }
+        ],
+        "alias": "Chris Carter",
+        "game": { "id": 5434, "name": "God of War" },
+        "Outlet": {
+            "name": "Destructoid",
+            "isContributor": false,
+            "id": 90,
+            "imageSrc": {
+                "og": "outlet/90/o/ntiElgkw.jpg",
+                "sm": "outlet/90/zUGVXx8a.jpg",
+                "lg": "outlet/90/OqI9z1j3.jpg"
+            }
+        },
+        "createdAt": "2019-09-21T19:33:51.822Z",
+        "updatedAt": "2022-08-11T16:47:24.016Z",
+        "__v": 0,
+        "blend_magic": 5410
+    },
+    {
+        "_id": "61df35939e5c48c548d6c727",
+        "magic": 5400,
+        "isChosen": false,
+        "overrideRecommendation": false,
+        "Outlet": {
+            "name": "Areajugones",
+            "isContributor": false,
+            "id": 470,
+            "imageSrc": {
+                "og": "outlet/470/o/YBcejN43.jpg",
+                "sm": "outlet/470/ZL8qf9LX.jpg",
+                "lg": "outlet/470/Rah7OHPS.jpg"
+            }
+        },
+        "ScoreFormat": {
+            "id": 18,
+            "name": "0 to 10 incl decimals",
+            "shortName": "x.x / 10.0",
+            "scoreDisplay": " / 10.0",
+            "isNumeric": true,
+            "isSelect": false,
+            "base": 10,
+            "options": null,
+            "isStars": false,
+            "numDecimals": 1
+        },
+        "externalUrl": "https://areajugones.sport.es/videojuegos/analisis-god-of-war-para-pc-asi-se-conquista-una-plataforma/",
+        "language": "es-es",
+        "Platforms": [],
+        "Authors": [],
+        "publishedDate": "2022-01-12T00:00:00.000Z",
+        "title": "An\u00e1lisis God of War para PC: as\u00ed se conquista una plataforma",
+        "score": 95,
+        "game": { "id": 5434, "name": "God of War" },
+        "snippet": "Playing God of War should be a must. Possibly we are facing one of the best games of the past generation, if not the best. Now you can play it on PC and you can also enjoy it like never before. This is the second time that I finish it and I have enjoyed it like a child, if you did not play it before or consider it, run to enjoy it.",
+        "isQuoteManual": true,
+        "medianAtTimeOfReview": 80,
+        "npScore": 100,
+        "createdAt": "2022-01-12T20:09:55.563Z",
+        "updatedAt": "2022-08-11T16:47:44.573Z",
+        "__v": 0,
+        "blend_magic": 5400
+    },
+    {
+        "_id": "61df321a9e5c48c548d6c6b7",
+        "magic": 5400,
+        "isChosen": false,
+        "overrideRecommendation": false,
+        "Outlet": {
+            "name": "TheSixthAxis",
+            "isContributor": false,
+            "id": 68,
+            "imageSrc": {
+                "og": "outlet/68/o/a60wYXaS.jpg",
+                "sm": "outlet/68/NhIFRpLf.jpg",
+                "lg": "outlet/68/EvgsxMq3.jpg"
+            }
+        },
+        "ScoreFormat": {
+            "id": 25,
+            "name": "0 to 10, whole numbers",
+            "shortName": "x / 10",
+            "scoreDisplay": " / 10",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": false,
+            "base": 10,
+            "options": null,
+            "numDecimals": 0
+        },
+        "game": { "id": 5434, "name": "God of War" },
+        "externalUrl": "https://www.thesixthaxis.com/2022/01/12/god-of-war-pc-review-graphics-comparison/",
+        "language": "en-us",
+        "Platforms": [],
+        "Authors": [
+            {
+                "_id": "5d95288f78e8ae58fca6a730",
+                "image": true,
+                "name": "Stefan L",
+                "id": 313,
+                "imageSrc": {
+                    "og": "critic/313/o/niHWoWKc.jpg",
+                    "sm": "critic/313/3LE5GHOc.jpg",
+                    "lg": "critic/313/PruBPflG.jpg"
+                }
+            }
+        ],
+        "alias": "Stefan L",
+        "publishedDate": "2022-01-12T00:00:00.000Z",
+        "score": 80,
+        "snippet": "God of War is a great port of one of the PlayStation 4's biggest games. PC gamers have all of the graphics options they could really want, and the game's origins mean that even fairly modest gaming PCs can push for high frame rates and resolutions. If you've not already played the game on PlayStation, this is a great chance to catch up ahead of Ragnarok's highly anticipated release.",
+        "title": "God of War PC Review | TheSixthAxis",
+        "isQuoteManual": true,
+        "medianAtTimeOfReview": 70,
+        "npScore": 100,
+        "createdAt": "2022-01-12T19:55:06.500Z",
+        "updatedAt": "2022-08-11T16:47:23.001Z",
+        "__v": 0,
+        "blend_magic": 5400
+    },
+    {
+        "_id": "61df1ec19e5c48c548d6c43a",
+        "magic": 5400,
+        "isChosen": false,
+        "overrideRecommendation": false,
+        "Outlet": {
+            "name": "Hobby Consolas",
+            "isContributor": false,
+            "id": 499,
+            "imageSrc": {
+                "og": "outlet/499/o/LhEJJe3Z.jpg",
+                "sm": "outlet/499/OBc8ktCZ.jpg",
+                "lg": "outlet/499/enArDAQC.jpg"
+            }
+        },
+        "ScoreFormat": {
+            "id": 17,
+            "name": "0 to 100, whole numbers",
+            "shortName": "x / 100",
+            "scoreDisplay": " / 100",
+            "isNumeric": true,
+            "isSelect": false,
+            "isStars": false,
+            "numDecimals": 0,
+            "base": 1,
+            "options": null
+        },
+        "externalUrl": "https://www.hobbyconsolas.com/reviews/analisis-god-war-pc-993089",
+        "language": "es-es",
+        "Platforms": [],
+        "Authors": [
+            {
+                "_id": "61df1ec19e5c48c548d6c43b",
+                "id": 3763,
+                "name": "Alberto Lloret",
+                "image": false
+            }
+        ],
+        "score": 95,
+        "game": { "id": 5434, "name": "God of War" },
+        "title": "An\u00e1lisis God of War para PC - un regalo de los dioses (si tienes una buena gr\u00e1fica)",
+        "snippet": "\u200eGod of War lands on PC with a great port, very smooth and fluid, with improved graphics and varied options and settings, which help to further elevate the myth of this great, although imperfect, adventure: it does not finish taking advantage of all the raw power fish tank (there is no ray tracing) and the control with mouse and keyboard does not end up liking it.\u200e",
+        "isQuoteManual": true,
+        "publishedDate": "2022-01-12T00:00:00.000Z",
+        "medianAtTimeOfReview": 80,
+        "npScore": 100,
+        "createdAt": "2022-01-12T18:32:33.684Z",
+        "updatedAt": "2022-08-11T16:47:47.602Z",
+        "__v": 0,
+        "blend_magic": 5400
+    }
+]
