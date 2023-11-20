@@ -44,7 +44,7 @@ def get_review_row(soup):
     passes them to get_review_info function
     takes the soup as parameter and returns nothing
     '''
-    print("in get_review_row function of reviewCollector.py")
+    # print("in get_review_row function of reviewCollector.py")
     reviews_row = soup.find_all('div', {'class': 'review-row'})
     for review in reviews_row:
         if len(reviewList) < 30:
@@ -58,7 +58,7 @@ def get_review_info(review):
     ''' This function finds the author name, outlet name and the external url
     takes the review as parameter and returns nothing
     '''
-    print("in get_review_info function of reviewCollector.py")
+    # print("in get_review_info function of reviewCollector.py")
     author_name_div = review.find('app-author-list', {'class': 'author-name'})
     # if author_name_div is not None find the text
     if author_name_div is not None:
@@ -116,8 +116,6 @@ def main(url):
     of the form 'https://opencritic.com/game/1234/game_name/reviews')
     and returns the list of reviews.
     each item in the list is a list of the form [author_name, outlet_name, external_url]'''
-    if reviewList:
-        reviewList.clear()
     get_soup(url)
     print("Collected reviews")
     return reviewList
