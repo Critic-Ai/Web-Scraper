@@ -1,0 +1,83 @@
+{
+    "0": { "Code": "1547", "Name": "Mass Effect Andromeda" },
+    "1": {
+        "ExternalUrl": "http://www.ign.com/articles/2017/03/20/mass-effect-andromeda-review",
+        "OutletName": "IGN"
+    },
+    "2": {
+        "ExternalUrl": "http://www.pcgamer.com/mass-effect-andromeda-review/",
+        "OutletName": "PC Gamer"
+    },
+    "3": {
+        "ExternalUrl": "http://www.eurogamer.net/articles/2017-03-19-mass-effect-andromeda",
+        "OutletName": "Eurogamer"
+    },
+    "4": {
+        "ExternalUrl": "https://www.youtube.com/watch?v=3dfRRan3MEk",
+        "OutletName": "Easy Allies"
+    },
+    "5": {
+        "ExternalUrl": "http://metro.co.uk/2017/03/20/mass-effect-andromeda-review-galaxy-of-issues-6520722/",
+        "OutletName": "Metro GameCentral"
+    },
+    "6": {
+        "ExternalUrl": "http://www.gamesradar.com/mass-effect-andromeda-review/",
+        "OutletName": "GamesRadar+"
+    },
+    "7": {
+        "ExternalUrl": "http://www.gameinformer.com/games/mass_effect_andromeda/b/playstation4/archive/2017/03/20/mass-effect-andromeda-review-game-informer.aspx",
+        "OutletName": "Game Informer"
+    },
+    "8": {
+        "ExternalUrl": "http://www.gamespot.com/reviews/mass-effect-andromeda-review/1900-6416638/",
+        "OutletName": "GameSpot"
+    },
+    "9": {
+        "ExternalUrl": "http://www.polygon.com/2017/3/20/14886618/mass-effect-andromeda-review-PS4-Xbox-One-PC",
+        "OutletName": "Polygon"
+    },
+    "10": {
+        "ExternalUrl": "http://www.giantbomb.com/reviews/mass-effect-andromeda-review/1900-762/",
+        "OutletName": "Giant Bomb"
+    },
+    "11": {
+        "ExternalUrl": "http://kotaku.com/mass-effect-andromeda-the-kotaku-review-1793496930",
+        "OutletName": "Kotaku"
+    },
+    "12": {
+        "ExternalUrl": "http://www.usgamer.net/articles/mass-effect-andromeda-review",
+        "OutletName": "USgamer"
+    },
+    "13": {
+        "ExternalUrl": "http://www.gamerevolution.com/review/mass-effect-andromeda-pc",
+        "OutletName": "Game Revolution"
+    },
+    "14": {
+        "ExternalUrl": "http://www.gamerevolution.com/review/mass-effect-andromeda",
+        "OutletName": "Game Revolution"
+    },
+    "15": {
+        "ExternalUrl": "https://www.destructoid.com/review-mass-effect-andromeda-424694.phtml",
+        "OutletName": "Destructoid"
+    },
+    "16": {
+        "ExternalUrl": "http://www.hobbyconsolas.com/reviews/analisis-mass-effect-andromeda-ps4-one-pc-92706",
+        "OutletName": "Hobby Consolas"
+    },
+    "17": {
+        "ExternalUrl": "https://areajugones.sport.es/mass-effect-andromeda/analisis/",
+        "OutletName": "Areajugones"
+    },
+    "18": {
+        "ExternalUrl": "http://www.thesixthaxis.com/2017/03/20/mass-effect-andromeda-review/",
+        "OutletName": "TheSixthAxis"
+    },
+    "19": {
+        "ExternalUrl": "http://www.forbes.com/sites/games/2017/03/20/mass-effect-andromeda-review-ps4-every-mans-sky/",
+        "OutletName": "Forbes"
+    },
+    "20": {
+        "ExternalUrl": "http://www.shacknews.com/article/99465/mass-effect-andromeda-ruff-ryder",
+        "OutletName": "Shacknews"
+    }
+}

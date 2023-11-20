@@ -1,0 +1,83 @@
+{
+    "0": { "Code": "13386", "Name": "Stray" },
+    "1": {
+        "ExternalUrl": "https://www.pcgamer.com/stray-review/",
+        "OutletName": "PC Gamer"
+    },
+    "2": {
+        "ExternalUrl": "https://www.eurogamer.net/stray-review-fantastic-cat-exploration-through-a-dystopian-cybercity",
+        "OutletName": "Eurogamer"
+    },
+    "3": {
+        "ExternalUrl": "https://www.ign.com/articles/stray-review",
+        "OutletName": "IGN"
+    },
+    "4": {
+        "ExternalUrl": "https://www.gamesradar.com/stray-review/",
+        "OutletName": "GamesRadar+"
+    },
+    "5": {
+        "ExternalUrl": "https://metro.co.uk/2022/07/18/stray-video-game-review-post-apocalyptic-cat-astrophe-17021591/",
+        "OutletName": "Metro GameCentral"
+    },
+    "6": {
+        "ExternalUrl": "https://www.youtube.com/watch?v=9NwNkr4RcEU",
+        "OutletName": "Easy Allies"
+    },
+    "7": {
+        "ExternalUrl": "https://www.gameinformer.com/review/stray/furry-friends",
+        "OutletName": "Game Informer"
+    },
+    "8": {
+        "ExternalUrl": "https://www.polygon.com/reviews/23268326/stray-review-cat-game-ps4-ps5-windows-pc-cyberpunk",
+        "OutletName": "Polygon"
+    },
+    "9": {
+        "ExternalUrl": "https://www.gamespot.com/reviews/stray-review-nine-lives/1900-6417917/?ftag=CAD-01-10abi2f",
+        "OutletName": "GameSpot"
+    },
+    "10": {
+        "ExternalUrl": "https://kotaku.com/stray-review-ps4-ps5-pc-cat-game-annapurna-bluetwelve-1849189599",
+        "OutletName": "Kotaku"
+    },
+    "11": {
+        "ExternalUrl": "https://www.destructoid.com/reviews/review-stray-adventure-puzzle-game-ps5-version/",
+        "OutletName": "Destructoid"
+    },
+    "12": {
+        "ExternalUrl": "https://www.gamerevolution.com/review/710908-stray-game-review-ps5-pc-ps4-worth-buying-cat",
+        "OutletName": "Game Revolution"
+    },
+    "13": {
+        "ExternalUrl": "https://www.hobbyconsolas.com/reviews/analisis-stray-ps5-ps4-pc-1094267",
+        "OutletName": "Hobby Consolas"
+    },
+    "14": {
+        "ExternalUrl": "https://www.thesixthaxis.com/?p=399099",
+        "OutletName": "TheSixthAxis"
+    },
+    "15": {
+        "ExternalUrl": "https://www.shacknews.com/article/131389/stray-review-score",
+        "OutletName": "Shacknews"
+    },
+    "16": {
+        "ExternalUrl": "https://me.ign.com/ar/stray-1/159671/review/mrj-stray",
+        "OutletName": "IGN Middle East"
+    },
+    "17": {
+        "ExternalUrl": "https://it.ign.com/stray-1/195000/review/stray-la-recensione",
+        "OutletName": "IGN Italy"
+    },
+    "18": {
+        "ExternalUrl": "https://www.vg247.com/stray-review",
+        "OutletName": "VG247"
+    },
+    "19": {
+        "ExternalUrl": "https://es.ign.com/stray-1/182796/review/analisis-de-stray-amor-felino-y-ciencia-ficcion-en-el-juego-del-gato",
+        "OutletName": "IGN Spain"
+    },
+    "20": {
+        "ExternalUrl": "https://arstechnica.com/gaming/2022/07/game-review-stray-redefines-the-adventure-genre-with-a-cats-eye-view/",
+        "OutletName": "Ars Technica"
+    }
+}
